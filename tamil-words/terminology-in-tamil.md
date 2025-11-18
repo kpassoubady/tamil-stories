@@ -1,0 +1,22 @@
+| **#** | **English Term**                             | **Current / Common Tamil (if any)** | **Improved Tamil Proposal**                | **Meaning / Context (in short)**                               |
+| :---: | -------------------------------------------- | ----------------------------------- | ------------------------------------------ | -------------------------------------------------------------- |
+|   1   | **Generative AI**                            | ஈனும் செயற் அறிவு                   | **படைப்பு செயற்கை அறிவு**                  | AI that creates new text, image, or code.                      |
+|   2   | **Large Language Model (LLM)**               | —                                   | **பெரிய மொழி மாதிரி**                      | Massive model trained on text to understand/generate language. |
+|   3   | **Foundation Model**                         | —                                   | **அடித்தள மாதிரி**                         | Pre-trained model serving as a base for multiple tasks.        |
+|   4   | **Multi-Modal AI**                           | பலவழி செயற் அறிவு                   | **பல வடிவறை செயற்கை அறிவு**                | Handles text, audio, image, video inputs.                      |
+|   5   | **Retrieval-Augmented Generation (RAG)**     | —                                   | **தகவல் உருப்படுத்திய உருவாக்கம்**         | Combines database retrieval with generative output.            |
+|   6   | **Prompt Engineering**                       | தூண்டுவினா நுட்பம்                  | **தூண்டல் நுட்பம் / தூண்டல் வடிவமைப்பு**   | Crafting effective prompts for AI systems.                     |
+|   7   | **Hallucination (AI)**                       | மதி மயக்கம்                         | **மாயத் தோற்றம் / தவறான உணர்தல்**          | When AI generates false but confident information.             |
+|   8   | **Agentic AI / Autonomous Agent**            | —                                   | **சுய இயக்க முகவர் அறிவு**                 | AI agents that act independently toward a goal.                |
+|   9   | **AI Alignment**                             | —                                   | **செயற்கை அறிவு சேருமுறை**                 | Ensuring AI behavior aligns with human values.                 |
+|   10  | **Context Window**                           | —                                   | **பொருள் சாளரம் / சூழல் வெளி**             | Amount of text an AI can “remember” at once.                   |
+|   11  | **Embeddings / Vector Representation**       | —                                   | **உறைகோவை வடிவமைப்பு / திசை நிலை**         | Numerical representation of meaning for AI search or memory.   |
+|   12  | **Vector Database**                          | —                                   | **திசை தரவுத்தளம்**                        | Specialized DB for storing embeddings.                         |
+|   13  | **Fine-Tuning / Instruction Tuning**         | நுண் சீரமைப்பு                      | **மெல்லிய சீரமைப்பு / வழிகாட்டல் இணைப்பு** | Adapting a pre-trained model for specific tasks.               |
+|   14  | **Chain-of-Thought Reasoning**               | —                                   | **சிந்தனை சங்கிலி தீர்மானம்**              | Step-by-step reasoning technique in LLMs.                      |
+|   15  | **Tokenization**                             | தொகுதி பிரிப்பு                     | **சொல்-பகுதி முறை**                        | Breaking text into processable tokens.                         |
+|   16  | **Parameter Efficient Tuning (LoRA, QLoRA)** | —                                   | **அளவுக் குறைவான சீரமைப்பு நுட்பம்**       | Efficient training method for large models.                    |
+|   17  | **Synthetic Data**                           | —                                   | **புனைவு தரவு / செயற்கை தரவு**             | Artificially generated data for training/testing.              |
+|   18  | **Data Drift / Model Drift**                 | —                                   | **தரவு சாய்வு / மாதிரி சாய்வு**            | Change in data or prediction behavior over time.               |
+|   19  | **Explainable AI (XAI)**                     | விளக்கமான செயற் அறிவு               | **விளக்கத்தன்மை செயற்கை அறிவு**            | AI that can justify or explain its outputs.                    |
+|   20  | **Ethical AI / Responsible AI**              | நெறிமுறை செயற் அறிவு                | **நெறிப்பொருந்திய செயற்கை அறிவு**          | AI developed and deployed with fairness, privacy, and safety.  |
